@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{823E5897-8262-4E37-942B-142128AAA5D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{9A912D8C-A53C-40B0-8EB3-D236C6C32A84}"
+	ProjectSection(SolutionItems) = preProject
+		CustomTDD.vsmdi = CustomTDD.vsmdi
+		Local.testsettings = Local.testsettings
+		TraceAndTestImpact.testsettings = TraceAndTestImpact.testsettings
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(TestCaseManagementSettings) = postSolution
+		CategoryFile = CustomTDD.vsmdi
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{823E5897-8262-4E37-942B-142128AAA5D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{823E5897-8262-4E37-942B-142128AAA5D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{823E5897-8262-4E37-942B-142128AAA5D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{823E5897-8262-4E37-942B-142128AAA5D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

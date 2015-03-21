@@ -1,0 +1,5 @@
+c:\users\myadmin\documents\visual studio 2010\Projects\CustomTDD\TestProject1\bin\Debug\TestProject1.dll
+c:\users\myadmin\documents\visual studio 2010\Projects\CustomTDD\TestProject1\bin\Debug\TestProject1.pdb
+c:\users\myadmin\documents\visual studio 2010\Projects\CustomTDD\TestProject1\obj\Debug\TestProject1.csprojResolveAssemblyReference.cache
+c:\users\myadmin\documents\visual studio 2010\Projects\CustomTDD\TestProject1\obj\Debug\TestProject1.dll
+c:\users\myadmin\documents\visual studio 2010\Projects\CustomTDD\TestProject1\obj\Debug\TestProject1.pdb
